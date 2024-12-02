@@ -1,0 +1,11 @@
+q0,a,Z=q1,Z,l
+q1,a,Z=q2,aZ,l
+q2,a,a=q2,aa,l
+q2,b,a=q3,ba,000
+q3,b,b=q3,bb,00
+q3,c,b=q4,e,l
+q4,c,b=q4,e,l
+q4,l,b=q5,e,l
+q5,l,a=q5,e,11
+q5,l,Z=q5,e,l
+q3,l,b=q5,e,l
